@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-	nuhash = {name, value}
+	nuhash = {:name => "Dwayne the Rock Johnson", value}
 
 end
 
